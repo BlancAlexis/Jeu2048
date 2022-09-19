@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2048Game</string>
+    <string name="hello">Bienvenue dans le jeu du 2048!</string>
+    <string name="play">Jouer</string>
+</resources>
