@@ -35,7 +35,8 @@ public class MainActivity extends AppCompatActivity {
         casse.add(new Button(this));
         casse.add(new Button(this));
 
-        GridView casse=findViewById(R.id.Grille);
+        GridView casseListView=findViewById(R.id.Grille);
+        casseListView.setAdapter(new )
 
 
        /* List<Cocktail_choix> cocktail_list = new ArrayList<>();
