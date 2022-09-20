@@ -4,24 +4,30 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <ImageView
+
+    <TextView
         android:id="@+id/coktail1"
         android:layout_width="wrap_content"
         android:layout_height="106dp"
-        android:src="@drawable/cocktail_1" />
-<TextView>
-    android:src="
+        android:background="@drawable/cocktail_1"
+        android:text="2048"
+        android:textAlignment="center"/>
 
-    <ImageView
+    <TextView
         android:id="@+id/coktail2"
         android:layout_width="wrap_content"
         android:layout_height="106dp"
+        android:background="@drawable/cocktail_2"
+        android:text="2048"
+        android:layout_gravity="center"/>
 
-        android:src="@drawable/cocktail_2" />
-
-    <ImageView
+    <TextView
         android:id="@+id/coktail3"
         android:layout_width="wrap_content"
         android:layout_height="106dp"
-        android:src="@drawable/cocktail_3" />
+        android:background="@drawable/cocktail_3"
+        android:text="2048"
+        android:layout_gravity="center"/>
+
+
 </LinearLayout>
