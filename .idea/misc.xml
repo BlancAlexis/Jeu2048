@@ -4,9 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Alexis/AndroidStudioProjects/2048Game/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/narut/AndroidStudioProjects/Jeu2048/app/src/main/res/layout/activity_main.xml" value="0.5" />
-        <entry key="..\:/Users/narut/AndroidStudioProjects/Jeu2048/app/src/main/res/layout/adapter_item.xml" value="0.32760416666666664" />
-        <entry key="..\:/Users/narut/AndroidStudioProjects/Jeu2048/app/src/main/res/layout/adapter_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Alexis/AndroidStudioProjects/2048Game/app/src/main/res/layout/adapter_item.xml" value="0.1265625" />
       </map>
     </option>
   </component>

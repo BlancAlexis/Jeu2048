@@ -29,23 +29,23 @@ public class MainActivity extends AppCompatActivity {
 
         this.bouton = findViewById(R.id.btnplay);
 
-        List<Button> casse=new ArrayList<>();
+       /*  List<Button> casse=new ArrayList<>();
         casse.add(new Button(this));
         casse.add(new Button(this));
         casse.add(new Button(this));
         casse.add(new Button(this));
 
-        GridView casse=findViewById(R.id.Grille);
+        GridView casse=findViewById(R.id.Grille);*/
 
 
-       /* List<Cocktail_choix> cocktail_list = new ArrayList<>();
+       List<Cocktail_choix> cocktail_list = new ArrayList<>();
         cocktail_list.add(new Cocktail_choix("coktail_1", 2));
         cocktail_list.add(new Cocktail_choix("coktail_1", 2));
         cocktail_list.add(new Cocktail_choix("coktail_2", 3));
         cocktail_list.add(new Cocktail_choix("coktail_3", 4));
 
         GridView cocktailListView = findViewById(R.id.Grille);
-        cocktailListView.setAdapter(new Cocktail_item_adapter(this, cocktail_list));*/
+        cocktailListView.setAdapter(new Cocktail_item_adapter(this, cocktail_list));
 
         /*for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
@@ -54,6 +54,8 @@ public class MainActivity extends AppCompatActivity {
                 text.setTextColor(getResources().getColor((R.color.purple_200)));
                 text.setTextSize(25);
                 myLayout.addView(text);*/
+
+
 
         bouton.setOnClickListener(new View.OnClickListener() {
             @Override
