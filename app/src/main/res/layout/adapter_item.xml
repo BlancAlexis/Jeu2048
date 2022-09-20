@@ -9,7 +9,8 @@
         android:layout_width="wrap_content"
         android:layout_height="106dp"
         android:src="@drawable/cocktail_1" />
-
+<TextView>
+    android:src="
 
     <ImageView
         android:id="@+id/coktail2"
